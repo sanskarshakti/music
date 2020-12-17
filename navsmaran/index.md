@@ -2,7 +2,6 @@
 
 ## The Navsmaran
 
-
 ### 01 Navkar Mantra
 
 <iframe 
@@ -30,56 +29,66 @@ height = "100"
 src="https://drive.google.com/file/d/0Bw48NKo8rBYpVzB0WXVZaDhaUGM/preview">
 </iframe>
 
-### 
+### 03 Santikaram Smaran
 
 <iframe 
 frameboarder="0"
 width="200"
 height = "100"
-src="/preview">
+src="https://drive.google.com/file/d/0Bw48NKo8rBYpUmJ3bkVfV2FEN0U/preview">
 </iframe>
 
-### Navkar Mantra
+### 04 Tijayapahut Smaran
 
 <iframe 
 frameboarder="0"
 width="200"
 height = "100"
-src="https://drive.google.com/file/d/0Bw48NKo8rBYpMG13N2lINVJ1bEk/preview">
+src="https://drive.google.com/file/d/0Bw48NKo8rBYpLUE2dmp2WHVfNmM/preview">
 </iframe>
 
-### Navkar Mantra
+### 05 Namiyun Smaran
 
 <iframe 
 frameboarder="0"
 width="200"
 height = "100"
-src="https://drive.google.com/file/d/0Bw48NKo8rBYpMG13N2lINVJ1bEk/preview">
+src="https://drive.google.com/file/d/0Bw48NKo8rBYpM1dlYnRBWTlnejA/preview">
 </iframe>
 
-### Navkar Mantra
+### 06 Shree Bhaktamar Mahastotra
 
 <iframe 
 frameboarder="0"
 width="200"
 height = "100"
-src="https://drive.google.com/file/d/0Bw48NKo8rBYpMG13N2lINVJ1bEk/preview">
+src="https://drive.google.com/file/d/0Bw48NKo8rBYpWkh4RjBLcVBJMWc/preview">
 </iframe>
 
-### Navkar Mantra
+### 07 Ajit Shanti Smaran
 
 <iframe 
 frameboarder="0"
 width="200"
 height = "100"
-src="https://drive.google.com/file/d/0Bw48NKo8rBYpMG13N2lINVJ1bEk/preview">
+src="https://drive.google.com/file/d/0Bw48NKo8rBYpa3ktQWU4eS1EZzg/preview">
 </iframe>
 
-### Navkar Mantra
+### 08 Bhrahad Shanti Smaran
 
 <iframe 
 frameboarder="0"
 width="200"
 height = "100"
-src="https://drive.google.com/file/d/0Bw48NKo8rBYpMG13N2lINVJ1bEk/preview">
+src="https://drive.google.com/file/d/0Bw48NKo8rBYpdXpxX2I0cy1odDA/preview">
 </iframe>
+
+### 09 Kalyan Mandir Stotra
+
+<iframe 
+frameboarder="0"
+width="200"
+height = "100"
+src="https://drive.google.com/file/d/0Bw48NKo8rBYpWXczeDJHVG1zVDQ/preview">
+</iframe>
+
